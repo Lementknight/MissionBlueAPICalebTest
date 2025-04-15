@@ -25,8 +25,8 @@ body:
       description: Also tell us, what did you expect to happen?
       placeholder: Tell us what you see!
       value: |
-        "**Introduction**"
-        "Hello, my name is Caleb!"
+        **Introduction**
+        Hello, my name is Caleb!
     validations:
       required: true
   - type: dropdown
