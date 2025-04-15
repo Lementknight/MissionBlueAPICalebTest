@@ -23,9 +23,8 @@ body:
     attributes:
       label: What happened?
       description: Also tell us, what did you expect to happen?
-      value: |
-        **Hellow**
-        My name is Caleb
+      value: "**Hellow**
+        My name is Caleb"
     validations:
       required: true
   - type: dropdown
